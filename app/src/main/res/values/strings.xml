@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavGuide</string>
+    <string name="my_position">my position</string>
+    <string name="navgation">navgation</string>
+    <string name="sos">SOS</string>
+    <string name="empty">Empty</string>
+    <string name="gps_available">GPS信号： 有信号</string>
+    <string name="gps_unavailable">GPS信号： 无信号</string>
+    <string name="gps_count">卫星数：</string>
+    <string name="longitude">经度：</string>
+    <string name="latitude">纬度：</string>
+    <string name="altitude">高度：</string>
+</resources>

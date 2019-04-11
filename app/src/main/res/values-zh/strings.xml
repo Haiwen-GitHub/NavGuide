@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">领航</string>
+    <string name="my_position">我的位置</string>
+    <string name="navgation">领航</string>
+    <string name="sos">SOS</string>
+    <string name="empty">请等待...</string>
+
+    <string name="gps_available">GPS 有信号</string>
+    <string name="gps_unavailable">GPS 无信号</string>
+    <string name="gps_count">卫星数：</string>
+    <string name="longitude">经度：</string>
+    <string name="latitude">纬度：</string>
+    <string name="altitude">高度：</string>
+</resources>
